@@ -1,0 +1,7 @@
+C:\Users\2022\Desktop\arrayConsoleApp1\arrayConsoleApp1\bin\Debug\arrayConsoleApp1.exe.config
+C:\Users\2022\Desktop\arrayConsoleApp1\arrayConsoleApp1\bin\Debug\arrayConsoleApp1.exe
+C:\Users\2022\Desktop\arrayConsoleApp1\arrayConsoleApp1\bin\Debug\arrayConsoleApp1.pdb
+C:\Users\2022\Desktop\arrayConsoleApp1\arrayConsoleApp1\obj\Debug\arrayConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\arrayConsoleApp1\arrayConsoleApp1\obj\Debug\arrayConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\arrayConsoleApp1\arrayConsoleApp1\obj\Debug\arrayConsoleApp1.exe
+C:\Users\2022\Desktop\arrayConsoleApp1\arrayConsoleApp1\obj\Debug\arrayConsoleApp1.pdb
